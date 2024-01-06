@@ -22,6 +22,7 @@ brew install fzf
 3. install solargraph ruby gem (optional/recommended)
 ```
 gem install solargraph
+gem install solargraph-rails
 ```
 
 4. Gems needed for rubocop linting (may not be needed)
